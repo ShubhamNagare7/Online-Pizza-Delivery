@@ -1,0 +1,139 @@
+body{background-image:url(images/1.png);
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+font-family:"Brush Script MT", Times, serif;
+color:white;
+}
+
+.head{
+font-family:"Brush Script MT", Times, serif;
+color:white;
+text-align:left;
+color:white;
+font-size:25px;position:fixed;
+margin-top:15px;
+top:7px;
+}
+
+.head1{
+font-size:25px;
+margin-bottom:5px;
+}
+
+.topnav{
+font-family:"Brush Script MT", Times, serif;
+  float: right;
+font-size:25px;
+position:fixed;
+margin-top:15px;
+margin-left:1050px;
+top:7px;
+overflow:hidden;
+}
+
+.a1{text-decoration: none;
+color:white;
+}
+
+.a1:hover{color:#FF9B38;
+}
+
+
+.heading{
+font-family:"Brush Script MT", Times, serif;
+color:white;
+font-size:50px;
+padding-top:35px;
+}
+
+.login{
+width:400px;
+height:520px;
+margin:10px auto 0;
+background-color:#696969;
+  border: 2px solid black;
+opacity:0.9;
+padding-top:5px;
+ border-radius: 15px;
+}
+
+h1{font-family:"Brush Script MT", Times, serif;
+color:white;
+text-align:center;
+font-size:50px;
+margin-top:20px;
+}
+
+.login{padding:0 40px;
+}
+
+.box{width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+border: 2px solid black;
+  border-radius: 5px;
+}
+
+.btn{
+width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+border: 2px solid black;
+  border-radius: 5px;
+background-color:#000080;
+font-family:"Arial", Times, serif;
+text-align:center;
+font-size:20px;
+color:white;
+}
+
+.btn:hover{background-color:#d2b48c;
+}
+
+.head2{font-family:"Arial", Times, serif;
+text-align:left;
+font-size:17px;
+margin-bottom:0px;
+}
+
+.head3{font-family:"Arial", Times, serif;
+text-align:left;
+font-size:17px;
+margin-top:-50px;
+
+}
+
+.fp{font-family:"Arial", Times, serif;
+text-align:left;
+color:#000080;
+font-size:17px;
+line-height:2cm;
+}
+
+.btm{
+font-family: "Times New Roman",Times, serif;
+font-weight:none;
+color:white;
+}
+
+.footer-link{
+font-family: "Times New Roman",Times, serif;
+font-weight:none;
+margin-top:-10px;
+}
+
+a{text-decoration: none;
+color:white;
+}
+
+a:hover{color:blue;
+}
+
+.fb{width:1.5%;}
+
+.bottom-bar{padding-top:10px;
+line-height:1.2;
+}

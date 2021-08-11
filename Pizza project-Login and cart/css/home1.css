@@ -1,0 +1,93 @@
+body{background-image:url(images/bg_img1.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;}
+ 
+
+.h1
+{
+padding-left: 600px;
+padding-top: 200px;
+font-family:"Brush Script MT", Times, serif;
+color:white;
+font-size:150px
+
+}
+
+.h2
+{padding-left:950px;
+font-family:"Brush Script MT", Times, serif;
+font-size:50px;
+color:white;
+font-weight: normal;
+}
+
+.footer-link
+{
+padding-top: 15px;
+color:white;
+position:center;
+}
+
+div.height
+{line-height:0cm;
+}
+
+div.height1
+{line-height:0cm;
+}
+
+.testbutton {
+  font-family: 'comic sans ms';
+  font-weight: bold;
+  color: #7D5002;
+  font-size: 21px;
+  padding: 12px 22px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;
+  background: #FCFCFC;
+margin-top:30px;
+margin-left:700px;
+}
+.testbutton:hover {
+  color:  #7D5002 !important;
+  background: #FF9B38;
+}
+
+.btn{color:#7D5002;}
+
+.topnav-right {
+font-family:"Brush Script MT", Times, serif;
+  float: right;
+font-size:30px;
+}
+
+p{color:white;
+margin-top:0;
+margin-bottom:0;
+}
+
+a{text-decoration: none;
+color:white;
+}
+
+a:hover{color:#FF9B38;
+}
+
+.fb{width:1.5%;}
+
+.bottom-bar{padding-top:22px;
+line-height:0;
+}
+
+
+.btm{
+line-height:0;
+font-family: "Times New Roman",Times, serif;
+font-weight:none;
+color:white;
+}
+
+.btm1{margin-top:120px;
+}
