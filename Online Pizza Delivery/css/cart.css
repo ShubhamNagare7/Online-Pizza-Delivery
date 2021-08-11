@@ -1,0 +1,22 @@
+body{
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+font-family:"Brush Script MT", Times, serif;
+color:white;
+}
+
+.topnav{
+font-family:"Brush Script MT", Times, serif;
+float: right;
+font-size:25px;
+position:fixed;
+margin-top:15px;
+margin-left:950px;
+}
+.a1{text-decoration: none;
+color:black;
+}
+
+.a1:hover{color:#FF9B38;
+}

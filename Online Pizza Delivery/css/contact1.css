@@ -1,0 +1,101 @@
+body{background-image:url(images/2.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+font-family:"Brush Script MT", Times, serif;
+color:white;
+}
+
+.head1{
+font-family:"Brush Script MT", Times, serif;
+color:white;
+text-align:left;
+color:white;
+font-size:25px;position:fixed;
+margin-top:15px;
+}
+
+.topnav{
+font-family:"Brush Script MT", Times, serif;
+  float: right;
+font-size:25px;
+position:fixed;
+margin-top:15px;
+margin-left:950px;
+}
+.topnav2{
+font-family:"Brush Script MT", Times, serif;
+  float: right;
+font-size:25px;
+position:fixed;
+margin-top:15px;
+margin-left:1050px;
+}
+
+.a1{text-decoration: none;
+color:white;
+}
+
+.a1:hover{color:#FF9B38;
+}
+
+
+.heading{
+font-family:"Brush Script MT", Times, serif;
+color:white;
+font-size:50px;
+padding-top:35px;
+}
+
+hr{width:50%;}
+
+.h1{width:35%;}
+
+.subhead1{font-size:30px;
+}
+
+.quote{font-family:"Brush Script MT", Times, serif;
+color:white;
+font-size:40px;
+}
+
+.add{text-align:center;
+}
+
+.cc{font-family:"Gill Sans",Times, serif;
+color:white;
+line-height:1.2;
+font-size:30px;
+margin-top:10px;
+margin-bottom:5px;
+}
+
+
+.address{font-family:"Courier New",Times, serif;
+color:white;
+line-height:1.2;
+font-size:20px;
+font-weight:500;
+margin-bottom:30px;
+}
+
+.con{line-height:0;
+font-size:40px;}
+
+.btm{
+font-family: "Times New Roman",Times, serif;
+font-weight:none;
+color:white;
+}
+
+.footer-link{
+font-family: "Times New Roman",Times, serif;
+font-weight:none;
+margin-top:-10px;
+}
+
+.fb{width:1.5%;}
+
+.bottom-bar{padding-top:10px;
+line-height:1.2;
+}
